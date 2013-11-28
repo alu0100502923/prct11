@@ -1,4 +1,3 @@
-
 class Matriz
 
     def initialize(x, y)
@@ -31,7 +30,7 @@ class Matriz
      @xsize
    
    end
-  
+   
    def getc
    
      @ysize
